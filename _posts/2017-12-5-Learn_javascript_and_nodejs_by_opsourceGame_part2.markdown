@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Develop game using opensource
+title: Develop game using opensource part2
 date: 2017-12-05 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: crossyRoad.jpg # Add image post (optional)
